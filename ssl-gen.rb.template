@@ -1,5 +1,5 @@
 require 'rbconfig'
-class Ssl-Gen < Formula
+class SslGen < Formula
   desc ""
   homepage "https://github.com/ashsmith/ssl-gen"
   version "{{.Version}}"
